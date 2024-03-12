@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+.jupyter
+.jupyterlab-debug.log
+.DS_Store
