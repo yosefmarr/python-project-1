@@ -6,14 +6,22 @@
 
 [Proyecto 1 - Predicción con Python]()
 
+## Descripción
+
 Este proyecto tiene como objetivo implementar y comparar modelos de regresión lineal para predecir el precio de venta de propiedades basándose en diversas características de las mismas. Se utiliza el lenguaje de programación Python y diversas bibliotecas de ciencia de datos y machine learning.
+
+## Índice
+
+- [Proyecto](./project.ipynb)
+- [Data Fields Description](./data/Data%20fields.txt)
+- [Data](./data/proyecto_training_data.npy)
 
 ## Librerías Utilizadas
 
-- Numpy: Para el manejo de arrays y matrices.
-- Pandas: Para la manipulación y análisis de datos.
-- Seaborn y Matplotlib: Para la visualización de datos.
-- Scikit-learn: Para implementar el modelo de regresión lineal y calcular el error cuadrático medio.
+- [Numpy](https://numpy.org): Para el manejo de arrays y matrices.
+- [Pandas](https://pandas.pydata.org): Para la manipulación y análisis de datos.
+- [Seaborn](https://seaborn.pydata.org) y [Matplotlib](https://matplotlib.org): Para la visualización de datos.
+- [Scikit-learn](https://scikit-learn.org/stable/index.html): Para implementar el modelo de regresión lineal y calcular el error cuadrático medio.
 
 ## Dataset
 
