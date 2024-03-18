@@ -4,7 +4,9 @@
 
 ## Video
 
-[Proyecto 1 - Predicción con Python]()
+👀 Se debe utilizar el correo `@galileo.edu` para poder visualizar el video
+
+[Proyecto 1 - Predicción con Python](https://drive.google.com/file/d/1e0Ag-xkye1C5cN0pdgeOpjUtOnKZEouK/view?usp=share_link)
 
 ## Descripción
 
